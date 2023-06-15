@@ -1,0 +1,119 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #e2dee8;
+  align-items: center;
+  display: flex;
+  flex-direction: column; 
+  max-width: 7000px;
+}
+  
+.Titulo {
+  font-size: 40px;
+  font-family:Bree Serif;
+  color: #ffffff;
+  text-align: center;
+  width: 1600;
+  height: 400px;
+  margin: auto;
+  background-image: url("ImgTitulo.jpg");
+}
+
+.contenido {
+  font-family: Playfair;
+  font-size: 25px ;
+  color: #000000;
+  text-align: left;
+  width: 1500px;
+  margin: auto;
+}
+
+nav  {
+  font-size: 30px;
+  font-family: Roboto;
+  padding: 30px;
+  text-align: center;
+  background-color:#5a4c67;
+  width: 1600px;
+}
+
+nav a {
+padding:25px 50px 25px 50px;
+  color: #000000;
+}
+
+nav a:hover {
+  background-color:#e2d39c  ;
+}
+
+.SobreMi {
+  font-family: Playfair;
+  font-size: 25px ;
+  color: #000000;
+  text-align: center;
+  width: 1500px;
+  margin: auto;
+}
+
+.Objetivo {
+  font-family: Playfair;
+  font-size: 25px ;
+  color: #000000;
+  text-align: center;
+  width: 1600px;
+  margin: auto;
+
+}
+
+footer {
+  font-size: 30px;
+  font-family: Roboto;
+  padding: 25px;
+  text-align: center;
+  background-color:#5a4c67;
+  margin-bottom: 5px;
+  width: 1600px;
+}
+
+footer a {
+  color: #000000;
+  padding: 25px 50px 25px 50px;
+
+}
+
+footer a:hover {
+  background-color:#e2d39c;
+}
+
+.Coments {
+  font-family: Playfair;
+  font-size: 25px ;
+  color: #000000;
+  text-align: center;
+  width: 800px;
+  margin: auto;
+}
+
+input, textarea {
+  height: 100px;
+  width: 800px;
+  background-color:#eeebdd;
+}
+
+.p {
+   font-family: Playfair;
+  font-size: 25px ;
+  color: #000000;
+  text-align: center;
+  width: 800px;
+  margin: auto;
+}
+
+img {
+  width: 900px;
+  height: auto;
+  aling-items: center;
+}
